@@ -1,0 +1,18 @@
+.text-area-3 {
+    position: relative;
+    top: 6px;
+}
+
+label:nth-child(1) {
+    margin-left: 23px;
+}
+
+form input {
+    margin-bottom: 10px;
+}
+
+form button:nth-child(7) {
+    margin-left: 70px;
+}
+
+
